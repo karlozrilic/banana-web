@@ -92,7 +92,7 @@ export default function Page() {
                                 8. Contact
                             </h2>
                             <p className='text-lg text-primary'>
-                                If you have any questions about these Terms, contact us using one of provided channels in the app or on our website.
+                                If you have any questions about these Terms, contact us using one of the provided channels in the app or on our website.
                             </p>
                         </section>
                     </div>
