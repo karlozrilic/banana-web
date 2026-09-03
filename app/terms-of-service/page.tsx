@@ -17,7 +17,7 @@ export default function Banana() {
                     <div className='flex justify-center pb-16'>
                         <Image
                             className='relative dark:drop-shadow-[0_0_0.3rem_#ffffff70]'
-                            src='/images/banana.png'
+                            src='/images/logo.png'
                             alt='Banana Logo'
                             width={180}
                             height={37}
