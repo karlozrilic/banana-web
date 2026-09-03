@@ -74,7 +74,8 @@ export default function Page() {
                                 Children's Privacy
                             </h2>
                             <p className='text-lg text-primary'>
-                                This game is intended for general audiences. We do not knowingly collect personal information from children under 13.
+                                This game is intended for general audiences and is not directed at children under 13.
+                                We do not knowingly collect personal information from children under 13.
                             </p>
                         </section>
                         <section className='space-y-4'>
@@ -90,7 +91,7 @@ export default function Page() {
                                 Contact Us
                             </h2>
                             <p className='text-lg text-primary'>
-                                If you have any questions about this Privacy Policy, please contact us using one of provided channels in the app or on our website.
+                                If you have any questions about this Privacy Policy, please contact us using one of the provided channels in the app or on our website.
                             </p>
                         </section>
                     </div>
