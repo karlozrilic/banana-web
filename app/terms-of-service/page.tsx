@@ -2,13 +2,7 @@
 import { useEffect, useState } from 'react';
 import Image from 'next/image';
 
-export default function Banana() {
-    const [loading, setLoading] = useState(true);
-
-    useEffect(() => {
-        setLoading(false);
-    });
-
+export default function Page() {
     return (
         <>
             {/* loading && <LoadingScreen /> */}
