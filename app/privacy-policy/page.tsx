@@ -68,6 +68,10 @@ export default function Page() {
                                 It is handled by Google in accordance with Google's own privacy policy, which you can read at <a className='underline' href='https://policies.google.com/privacy' target='_blank' rel='noopener noreferrer'>policies.google.com/privacy</a>.
                                 You can review or change your ad personalization settings at any time through your device's settings.
                             </p>
+                            <p className='text-lg text-primary'>
+                                Where the law requires it, such as in the European Economic Area and the UK, the app asks for your choice through Google's consent form before any ads are requested.
+                                You can change your choice at any time under Ad privacy choices in the app's settings.
+                            </p>
                         </section>
                         <section className='space-y-4'>
                             <h2 className='text-2xl font-bold text-primary'>
@@ -77,16 +81,6 @@ export default function Page() {
                                 Purchases in the app, such as removing ads or buying cosmetic items, are processed by Google Play.
                                 We do not receive your payment details.
                                 The app only receives confirmation of which items you own, and stores your remove-ads status on your device.
-                            </p>
-                        </section>
-                        <section className='space-y-4'>
-                            <h2 className='text-2xl font-bold text-primary'>
-                                Analytics
-                            </h2>
-                            <p className='text-lg text-primary'>
-                                We may use Google Analytics for Firebase to understand how the app is used and improve it.
-                                This can involve an app instance identifier, device information, and information about how you use the app.
-                                This information is handled by Google.
                             </p>
                         </section>
                         <section className='space-y-4'>
@@ -108,6 +102,7 @@ export default function Page() {
                             </p>
                             <p className='text-lg text-primary'>
                                 If you are in the European Economic Area, the UK, or a place with similar laws, we handle information to provide the game and the purchases you ask for, and because we have a legitimate interest in running, securing and funding the app.
+                                Where the law requires your consent for advertising, we rely on that consent, which you can withdraw at any time in the app's settings.
                             </p>
                         </section>
                         <section className='space-y-4'>
@@ -144,7 +139,7 @@ export default function Page() {
                             </p>
                             <p className='text-lg text-primary'>
                                 We do not hold an account or profile for you, so most requests are best made through your Google Account.
-                                For anything else, contact us at <a className='underline' href='mailto:kazrile@gmail.com'>kazrile@gmail.com</a>.
+                                For anything else, contact us at <a className='underline' href='mailto:support@zrilich.com'>support@zrilich.com</a>.
                             </p>
                         </section>
                         <section className='space-y-4'>
@@ -170,7 +165,7 @@ export default function Page() {
                                 Contact Us
                             </h2>
                             <p className='text-lg text-primary'>
-                                If you have any questions about this Privacy Policy, please contact us at <a className='underline' href='mailto:kazrile@gmail.com'>kazrile@gmail.com</a>.
+                                If you have any questions about this Privacy Policy, please contact us at <a className='underline' href='mailto:support@zrilich.com'>support@zrilich.com</a>.
                             </p>
                         </section>
                     </div>

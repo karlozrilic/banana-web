@@ -134,7 +134,7 @@ export default function Page() {
                                 11. Contact
                             </h2>
                             <p className='text-lg text-primary'>
-                                If you have any questions about these Terms, contact us at <a className='underline' href='mailto:kazrile@gmail.com'>kazrile@gmail.com</a>.
+                                If you have any questions about these Terms, contact us at <a className='underline' href='mailto:support@zrilich.com'>support@zrilich.com</a>.
                             </p>
                         </section>
                     </div>
