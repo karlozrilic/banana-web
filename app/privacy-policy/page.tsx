@@ -56,6 +56,16 @@ export default function Page() {
                         </section>
                         <section className='space-y-4'>
                             <h2 className='text-2xl font-bold text-primary'>
+                                Analytics
+                            </h2>
+                            <p className='text-lg text-primary'>
+                                The app uses Google Analytics for Firebase to count things like installs, how often the app is opened, and rough location by country.
+                                This does not include your advertising identifier or your Play Games profile.
+                                Where the law requires it, such as in the European Economic Area and the UK, it only runs if you agree in Google's consent form.
+                            </p>
+                        </section>
+                        <section className='space-y-4'>
+                            <h2 className='text-2xl font-bold text-primary'>
                                 Advertising
                             </h2>
                             <p className='text-lg text-primary'>
